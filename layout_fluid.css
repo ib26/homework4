@@ -1,0 +1,38 @@
+#body {
+  min-width: 550px;      
+}
+
+#container {
+	overflow: hidden;
+
+  padding-left: 200px;   
+  padding-right: 150px;  
+}
+.column {
+    padding-bottom: 20010px;
+    margin-bottom: -20000px; 
+	}
+
+#left {
+
+  float:left;
+  width: 200px;          
+  margin-left: -200px;
+
+}
+#center {
+  float:left;
+  width: 100%;
+
+}
+#right {
+  float:right;
+  width: 150px;          
+  margin-right: -150px;  
+  }
+
+#footer {
+    height: 45px;
+   
+
+}
