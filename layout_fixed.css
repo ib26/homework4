@@ -1,0 +1,31 @@
+#outer_container {
+	
+
+  padding-left: 200px;   
+  padding-right: 150px;  
+}
+
+
+#top, #header1, #header2, #footer {
+
+	width:800px;
+}
+#left {
+  float:left;
+    width: 175px;
+    height: 430px;
+
+}
+#center {
+  float:left;
+  width: 450px;
+  height: 430px;
+
+}
+#right {
+  float:left;
+  width: 175px;
+  height: 430px;  
+  }
+
+
