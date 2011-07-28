@@ -1,0 +1,98 @@
+
+
+#outer_container{
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+#outer_container a:hover{
+    color:white;
+}
+#top {
+	background-color:aqua;
+    text-align:center;
+	
+    line-height: 45px;
+    color:yellow;
+    height: 45px;
+	}
+#header1 li{
+	display: inline;
+}
+#header1 {
+	height:25px;
+	background-color:orange;
+	line-height:25px;
+    text-align:center;
+	margin: 0px;
+	}
+#header2 li{
+	display: inline;
+}
+#header2 {
+	height:25px;
+	background-color:pink;
+	line-height:25px;
+    text-align:center;
+	margin: 0px;
+	}
+#left ol {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+} 
+#left a {
+	display: block;
+	width:120px;
+	padding: 2px 2px 2px 10px;
+	border: 1px solid #000000;
+	background: #dcdcdc;
+	text-decoration: none; 
+} 
+#left a:link, #left  a:active, #left  a:visited {
+	color: #000000;
+}
+
+#left  a:hover {
+	border: 1px solid #000000;
+	background: #333333;
+	color: #ffffff;
+} 
+#left{
+	background-color: lime;
+	}
+#right{
+	
+	
+	background-color:lime;
+	
+}
+#center{
+	background-color: red;
+    text-align:center;
+
+}
+
+#right a {
+	COLOR: RED;
+}
+table  {
+ border-collapse: collapse;
+
+ }
+.header{
+	background-color: orange;
+}
+.odd{
+	background:#ffe;
+}
+.even{
+	background:#eee;
+}
+#footer {
+	background-color:green;
+    margin-top: 5px;
+    text-align:center ; 
+
+}
